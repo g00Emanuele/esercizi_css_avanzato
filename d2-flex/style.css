@@ -78,3 +78,26 @@ nav ul li {
     background-color: #F3DF86;
     border-radius: 2em;
 }
+
+article {
+    display: flex;
+    width: 600px;
+    font-size: 0.7em;
+    padding: 1.5em;
+    margin: 1em;
+    background-color: #FBF6E5;
+    border-radius: 2em;
+}
+
+article img {
+    width: 70%;
+}
+
+article div {
+    padding: 2em;
+    color: #6E3411;
+}
+
+article div p {
+    margin-top: 1em;
+}
